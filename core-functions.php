@@ -7,7 +7,7 @@
  * @package           Core_Functions
  *
  * @wordpress-plugin
- * Plugin Name:       Core Functions
+ * Plugin Name:       Core Functions 
  * Plugin URI:        https://github.com/vermadarsh/
  * Description:       This plugin is responsible for all the custom functionalities.
  * Version:           1.0.0
